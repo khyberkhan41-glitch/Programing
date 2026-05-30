@@ -1,2 +1,3 @@
 # Programing
-I am a Student and Learnign Programming. 
+I am a Student and Learning
+Programming. 
